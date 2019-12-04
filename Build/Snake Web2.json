@@ -1,0 +1,16 @@
+{
+"companyName": "TuDang",
+"productName": "Snake",
+"productVersion": "0.1",
+"dataUrl": "Snake Web2.data",
+"wasmCodeUrl": "Snake Web2.wasm",
+"wasmFrameworkUrl": "Snake Web2.framework.js",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": true,
+"multithreading": false,
+"unityVersion": "2020.1.0a13"
+}
